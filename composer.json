@@ -1,8 +1,10 @@
 {
     "name": "spryker-community/ai-translator",
     "type": "library",
-    "description": "AiTranslator module",
-    "license": "proprietary",
+    "description": "This module provides AI translation functionality with the help of external AI engines",
+    "keywords": ["spryker", "AI"],
+    "homepage": "https://github.com/spryker-community/ai-translator",
+    "license": "MIT",
     "require": {
         "php": ">=8.0",
         "spryker/kernel": "^3.73.0",
